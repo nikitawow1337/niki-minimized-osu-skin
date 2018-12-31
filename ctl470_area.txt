@@ -1,0 +1,21 @@
+Wacom.Area.Changer.exe (Backup.tabletprefs)
+
+14720x9200
+
+0 2300
+11040 14720
+
+0 3220
+9568 14720
+
+Everlasting message(7.17)
+90.72
+95.17
+
+Game over(7.14)
+93.41
+95.46
+
+Lyoshka(5.96)
+92.85
+94.36
